@@ -14,5 +14,5 @@ Technical:
 - [app.code2flow.com](https://app.code2flow.com/) - Limited free version, generates flow diagrams from code.
 
 Partially NSFW:
-- [dafont.com](https://www.dafont.com/) - A great place to find all kinds of fancy fonts, including many rare pixel fonts. Some of the fonts contain themes considered too edgy for general public.
+- [dafont.com](https://www.dafont.com/) - A great place to find all kinds of fancy fonts, including many rare pixel fonts. Lets you enter preview text to get a feel for the font before downloading it. Some of the fonts contain themes considered too edgy for general public.
 - [deviantart.com](https://www.deviantart.com/) - A great place to find photoshop/gimp brushes, textures, icons, ui design inspiration, signature tutorials, and more. I strongly recomend looking up `abstract brushes`, and `grundge brushes`, they are really neat. Some of the content on deviantart contains themes considered too edgy for general public.
