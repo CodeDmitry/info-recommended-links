@@ -9,7 +9,7 @@ General
 
 Advanced
 
-- [deviantart.com](https://www.deviantart.com/) - A great place to find photoshop/gimp brushes, textures, icons, ui design inspiration, signature tutorials, and more.
+- [deviantart.com](https://www.deviantart.com/) - A great place to find photoshop/gimp brushes, textures, icons, ui design inspiration, signature tutorials, and more. I strongly recomend looking up "abstract brushes", and "grundge brushes", they're really neat.
 
 Technical
 
