@@ -3,7 +3,7 @@ Useful online tools/services I think you may be interested in.
 
 General
 
-- [dafont.com](https://www.dafont.com/) - a great place to find all kinds of fancy fonts.
+- [dafont.com](https://www.dafont.com/) - a great place to find all kinds of fancy fonts, including many rare pixel fonts.
 - [jfxr.com](https://jfxr.frozenfractal.com/) - a sound effect generator.
 - [asciiflow.com](https://asciiflow.com/#/) - an online tool for making ascii based flowcharts.
 
