@@ -12,6 +12,7 @@ Technical:
 - [bab.la](https://bab.la/) - A translation tool that gives words in their natural context, useful when learning other languages, gaining confidence you are using the correct word.
 - [wolframalpha.com](https://www.wolframalpha.com/) - Great for doing math homework, solving all kinds of different equations, graphing, and more.
 - [app.code2flow.com](https://app.code2flow.com/) - Limited free version, generates flow diagrams from code.
+- [translit.ru](translit.ru) - english to greek, cyrillic transliterator.
 - [lexilogos glagolitic](https://www.lexilogos.com/keyboard/glagolitic.htm) - A glagolitic transliterator.
 - [glagolitic.badc0de.net](https://glagolitic.badc0de.net/) - A glagolitic to english or cyrillic approximator.
 
