@@ -15,6 +15,7 @@ Technical:
 - [translit.ru](translit.ru) - english to greek, cyrillic transliterator.
 - [lexilogos glagolitic](https://www.lexilogos.com/keyboard/glagolitic.htm) - A glagolitic transliterator.
 - [glagolitic.badc0de.net](https://glagolitic.badc0de.net/) - A glagolitic to english or cyrillic approximator.
+- [qhanzi.com](https://www.qhanzi.com/) - Chinese character recognition.
 
 Partially NSFW:
 - [dafont.com](https://www.dafont.com/) - A great place to find all kinds of fancy fonts, including many rare pixel fonts. Lets you enter preview text to get a feel for the font before downloading it. Some of the fonts contain themes considered too edgy for general public.
