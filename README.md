@@ -6,7 +6,7 @@ General:
 - [jfxr.frozenfractal.com](https://jfxr.frozenfractal.com/) - A sound effect generator.
 - [asciiflow.com](https://asciiflow.com/#/) - An online tool for making ascii based flowcharts.
 - [tineye.com](tineye.com) - Reverse image search
-- [song recognition](https://www.aha-music.com/identify-songs-music-recognition-online) - Recognizes many songs from mp3/capturing audio
+- [aha-music](https://www.aha-music.com/identify-songs-music-recognition-online) - Recognizes many songs from mp3/capturing audio
 
 Technical:
 
