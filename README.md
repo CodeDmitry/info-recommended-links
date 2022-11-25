@@ -7,6 +7,8 @@ General:
 - [asciiflow.com](https://asciiflow.com/#/) - An online tool for making ascii based flowcharts.
 - [tineye.com](tineye.com) - Reverse image search
 - [aha-music](https://www.aha-music.com/identify-songs-music-recognition-online) - Recognizes many songs from mp3/capturing audio
+- [downsub.com](https://downsub.com/) - download youtube subtitles for speech practice or for building term dictionaries for art 
+     or technology for instance.
 
 Technical:
 
