@@ -10,6 +10,7 @@ General:
 - [downsub.com](https://downsub.com/) - download youtube subtitles for speech practice or for building term dictionaries for art 
      or technology for instance.
 - [google trends](https://trends.google.com/trends) - google trends.
+- [ttsmp3](https://ttsmp3.com/text-to-speech) - text to speech mp3
 
 Technical:
 
