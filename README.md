@@ -1,5 +1,5 @@
 # Information: Recommended Links
-Useful online tools/services I think you may be interested in.
+Here are some links to online tools and services that I found to be particularly useful.
 
 General:
 
