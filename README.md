@@ -11,6 +11,7 @@ General:
      or technology for instance.
 - [google trends](https://trends.google.com/trends) - google trends.
 - [ttsmp3](https://ttsmp3.com/text-to-speech) - text to speech mp3
+- [ai texture generation](https://poly.cam/material-generator)
 
 Technical:
 
