@@ -14,7 +14,7 @@ General:
 - [ai texture generation](https://poly.cam/material-generator)
 
 Technical:
-
+- [state machine diagram designer](https://online.visual-paradigm.com/app/diagrams/#diagram:proj=0&type=StateMachineDiagram&width=11&height=8.5&unit=inch) - A free online state machine diagram design.
 - [radio.garden](https://radio.garden/) - A free online interactive globe radio tool, great for input while studying other languages, beware of propaganda.
 - [bab.la](https://bab.la/) - A translation tool that gives words in their natural context, useful when learning other languages, gaining confidence you are using the correct word.
 - [wolframalpha.com](https://www.wolframalpha.com/) - Great for doing math homework, solving all kinds of different equations, graphing, and more.
